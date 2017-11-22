@@ -1,1 +1,3 @@
-# nycnoise
+# New York City Noise Complaints
+
+From an application perspective, I would argue that most web mapping applications should use a 2D format, considering load time and to retain the clarity of the information presented. 3D applications would be best used when one is trying to convey information that is terrain or topography based, such as the [Peaks and Valleys Story Map](https://storymaps.esri.com/stories/2017/peaks-and-valleys/index.html). However, in cases like this [flooding map](http://oregonwater.info/flood_index.html) in the Oregon Water Atlas, a 2D approach is best because the terrain isn't at the forefront of the information presented, as well as it would make the map harder to read.
